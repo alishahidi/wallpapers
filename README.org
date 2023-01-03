@@ -1,0 +1,35 @@
+#+TITLE: Ali Shahidi's wallpapers
+#+AUTHOR: Ali Shahidi
+#+DESCRIPTION: My selected wallpapers.
+#+OPTIONS: num:nil ^:{}
+#+STARTUP: showeverything
+
+* What is this
+
+This is my selected wallpapers.
+
+I have also optimized these wallpapers with my own optimization script [[https://github.com/Alishahidi/optimization_cli][link]]
+
+examples wallpaper:
+
+** 1
+
+#+CAPTION: Example image 1
+#+ATTR_HTML: :alt Example image 1 :title Example image 1 :align left
+#+ATTR_ORG: :width 400px
+[[./26.jpg]]
+
+** 2
+
+#+CAPTION: Example image 1
+#+ATTR_HTML: :alt Example image 1 :title Example image 1 :align left
+#+ATTR_ORG: :width 400px
+[[./40.jpg]]
+
+** 3
+
+#+CAPTION: Example image 1
+#+ATTR_HTML: :alt Example image 1 :title Example image 1 :align left
+#+ATTR_ORG: :width 400px
+[[./10.jpg]]
+
