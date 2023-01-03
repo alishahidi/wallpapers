@@ -17,14 +17,14 @@ examples wallpaper:
 #+CAPTION: Example image 1
 #+ATTR_HTML: :alt Example image 1 :title Example image 1 :align left
 #+ATTR_ORG: :width 400px
-[[./26.jpg]]
+[[./13.jpg]]
 
 ** 2
 
 #+CAPTION: Example image 1
 #+ATTR_HTML: :alt Example image 1 :title Example image 1 :align left
 #+ATTR_ORG: :width 400px
-[[./40.jpg]]
+[[./15.jpg]]
 
 ** 3
 
